@@ -31,6 +31,7 @@ Go into the project folder and run the application using the following commands
 
 ```bash
 cd simple-desktop-app-electronjs
+npm install
 npm start
 ```
 
