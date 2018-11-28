@@ -1,7 +1,7 @@
 # Temperature Converter Desktop App
 
 This Code is part of a blog. Please refer to the blog to make the best use of this code.
-The link to the blog is [here](#)
+The link to the blog is [here](https://adityasridhar.com/posts/desktop-apps-with-html-css-javascript)
 
 ## Pre-requisites
 
